@@ -1,0 +1,2 @@
+// Syntax error: on line 2: Expecting IN, found OPEN_RANGE('[')
+for x [1:2]{print x}

@@ -1,0 +1,2 @@
+// prints false
+print (5*7==2) != (3!=3)

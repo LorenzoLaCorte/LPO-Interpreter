@@ -1,0 +1,9 @@
+var a=bounds [1:3];
+var b=bounds [1:3];
+print a==b; // prints true
+
+var c=bounds [2:4];
+print a==c; // prints false
+
+var d=bounds [0:0];
+print a!=d // prints true

@@ -1,0 +1,3 @@
+// prints true
+var a=bounds [-12:-1];
+print fst a==-12 && snd a==-1

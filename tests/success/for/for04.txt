@@ -1,0 +1,7 @@
+// prints true and then false
+var r=[-42:-40];
+
+for i in r{
+    print i==-42
+}
+
